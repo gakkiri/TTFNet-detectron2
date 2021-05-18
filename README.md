@@ -1,4 +1,4 @@
-# SOLOv2-detectron2
+# Training-Time-Friendly Network for Real-Time Object Detection
 Unofficial implementation for [TTFNet](https://arxiv.org/pdf/1909.00700.pdf) instance segmentation.  
 
 *The weights will be published once the training is complete*.
